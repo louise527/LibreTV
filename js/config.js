@@ -119,6 +119,138 @@ const API_SITES = {
         name: '空内容测试源',
         adult: true
     },
+    "新浪资源": {
+        "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+        "name": "新浪资源"
+    },
+    "索尼": {
+        "api": "https://suoniapi.com/api.php/provide/vod/",
+        "name": "索尼"
+    },
+    "红牛资源": {
+        "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+        "name": "红牛资源"
+    },
+    "1080zyku": {
+        "api": "http://api.1080zyku.com/inc/api_mac10.php",
+        "name": "1080zyku"
+    },
+    "天空资源": {
+        "api": "https://api.tiankongapi.com/api.php/provide/vod/",
+        "name": "天空资源"
+    },
+    "快车资源": {
+        "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
+        "name": "快车资源"
+    },
+    "步步高资源": {
+        "api": "https://api.yparse.com/api/json",
+        "name": "步步高资源"
+    },
+    "N虎牙资源": {
+        "api": "https://www.huyaapi.com/api.php/provide/vod/at/json",
+        "name": "N虎牙资源"
+    },
+    "黑木耳资源站(国内) json采集接口": {
+        "api": "https://json02.heimuer.xyz/api.php/provide/vod/?ac=list",
+        "name": "黑木耳资源站(国内) json采集接口"
+    },
+    "闪电资源网": {
+        "api": "https://sdzyapi.com/api.php/provide/vod/",
+        "name": "闪电资源网"
+    },
+    "光速资源": {
+        "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+        "name": "光速资源"
+    },
+    "金鹰资源": {
+        "api": "https://jyzyapi.com/provide/vod/",
+        "name": "金鹰资源"
+    },
+    "极速": {
+        "api": "https://jszyapi.com/api.php/provide/vod/at/json",
+        "name": "极速"
+    },
+    "18奥斯卡": {
+        "api": "https://aosikazy.com/api.php/provide/vod/?ac=list",
+        "name": "18奥斯卡"
+    },
+    "火狐": {
+        "api": "https://hhzyapi.com/api.php/provide/vod",
+        "name": "火狐"
+    },
+    "黑木耳资源站(国外) json采集接口": {
+        "api": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list",
+        "name": "黑木耳资源站(国外) json采集接口"
+    },
+    "Ikun资源": {
+        "api": "https://ikunzyapi.com/api.php/provide/vod",
+        "name": "Ikun资源"
+    },
+    "樱花动漫": {
+        "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
+        "name": "樱花动漫"
+    },
+    "优质资源网": {
+        "api": "https://api.1080zyku.com/inc/apijson.php",
+        "name": "优质资源网"
+    },
+    "CK资源": {
+        "api": "https://ckzy.me/api.php/provide/vod/",
+        "name": "CK资源"
+    },
+    "飞速资源": {
+        "api": "https://www.feisuzyapi.com/api.php/provide/vod/",
+        "name": "飞速资源"
+    },
+    "速播": {
+        "api": "https://subocaiji.com/api.php/provide/vod/",
+        "name": "速播"
+    },
+    "奇虎": {
+        "api": "https://caiji.qhzyapi.com/api.php/provide/vod/?ac=list",
+        "name": "奇虎"
+    },
+    "非凡资源": {
+        "api": "http://www.ffzy.tv/api.php/provide/vod/",
+        "name": "非凡资源"
+    },
+    "18探探资源": {
+        "api": "https://apittzy.com/api.php/provide/vod/at/xml",
+        "name": "18探探资源"
+    },
+    "CN种子短剧": {
+        "api": "http://zzdj.cc/api.php/provide/vod",
+        "name": "CN种子短剧"
+    },
+    "八戒采集": {
+        "api": "https://cj.bajiecaiji.com/inc/apijson.php",
+        "name": "八戒采集"
+    },
+    "18黄AV": {
+        "api": "https://www.pgxdy.com/api/xml.php",
+        "name": "18黄AV"
+    },
+    "18乐播": {
+        "api": "https://lbapi9.com/api.php/provide/vod/at/xml",
+        "name": "18乐播"
+    },
+    "外网-美少女": {
+        "api": "https://www.msnii.com/api/xml.php",
+        "name": "外网-美少女"
+    },
+    "18淫水机": {
+        "api": "https://www.xrbsp.com/api/xml.php",
+        "name": "18淫水机"
+    },
+    "18hua椒": {
+        "api": "https://apihjzy.com/api.php/provide/vod/at/xml/",
+        "name": "18hua椒"
+    },
+    "18白嫖": {
+        "api": "https://www.kxgav.com/api/xml.php",
+        "name": "18白嫖"
+    }
 };
 
 // 定义合并方法
