@@ -114,11 +114,6 @@ const API_SITES = {
         api: 'https://cj.lziapi.com/api.php/provide/vod/',
         name: '量子资源站'
     },
-    testSource: {
-        api: 'https://www.example.com/api.php/provide/vod',
-        name: '空内容测试源',
-        adult: true
-    },
     "新浪资源": {
         "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
         "name": "新浪资源"
@@ -199,58 +194,13 @@ const API_SITES = {
         "api": "https://ckzy.me/api.php/provide/vod/",
         "name": "CK资源"
     },
-    "飞速资源": {
-        "api": "https://www.feisuzyapi.com/api.php/provide/vod/",
-        "name": "飞速资源"
-    },
     "速播": {
         "api": "https://subocaiji.com/api.php/provide/vod/",
         "name": "速播"
     },
-    "奇虎": {
-        "api": "https://caiji.qhzyapi.com/api.php/provide/vod/?ac=list",
-        "name": "奇虎"
-    },
-    "非凡资源": {
-        "api": "http://www.ffzy.tv/api.php/provide/vod/",
-        "name": "非凡资源"
-    },
-    "18探探资源": {
-        "api": "https://apittzy.com/api.php/provide/vod/at/xml",
-        "name": "18探探资源"
-    },
-    "CN种子短剧": {
-        "api": "http://zzdj.cc/api.php/provide/vod",
-        "name": "CN种子短剧"
-    },
-    "八戒采集": {
-        "api": "https://cj.bajiecaiji.com/inc/apijson.php",
-        "name": "八戒采集"
-    },
-    "18黄AV": {
-        "api": "https://www.pgxdy.com/api/xml.php",
-        "name": "18黄AV"
-    },
-    "18乐播": {
-        "api": "https://lbapi9.com/api.php/provide/vod/at/xml",
-        "name": "18乐播"
-    },
-    "外网-美少女": {
-        "api": "https://www.msnii.com/api/xml.php",
-        "name": "外网-美少女"
-    },
-    "18淫水机": {
-        "api": "https://www.xrbsp.com/api/xml.php",
-        "name": "18淫水机"
-    },
-    "18hua椒": {
-        "api": "https://apihjzy.com/api.php/provide/vod/at/xml/",
-        "name": "18hua椒"
-    },
-    "18白嫖": {
-        "api": "https://www.kxgav.com/api/xml.php",
-        "name": "18白嫖"
-    }
+  
+
+
 };
 
 // 定义合并方法
